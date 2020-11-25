@@ -5,6 +5,8 @@ The bug has been happening since the initial Darkwalker update (version 1.86, 29
 
 Wolfmoji provides a visual representation of the wildlife sounds by reading the game's log file and showing emojis for the animals whenever they would make a sound, but don't because of the bug.
 
+[Watch it in action](https://youtu.be/0YHAjnvdTAg "I ruined an ear wrap just for you!")
+
 # Emoji key (WIP)
 
 - 🐺 Wolf walking or running
