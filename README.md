@@ -3,7 +3,7 @@ The Long Dark is a great game. But it has a really bad bug on macOS where wildli
 
 The bug has been happening since the initial Darkwalker update (version 1.86, 29 Oct 2020). Hinterland acknowledged the problem but has not yet fixed it (as of 24 Nov 2020).
 
-Wolfmoji provides a visual representation of the wildlife sounds by reading the game's log file and showing emojis for the animals whenever they make a sound.
+Wolfmoji provides a visual representation of the wildlife sounds by reading the game's log file and showing emojis for the animals whenever they would make a sound, but don't because of the bug.
 
 # Emoji key (WIP)
 
