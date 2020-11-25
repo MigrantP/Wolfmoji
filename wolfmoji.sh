@@ -5,6 +5,7 @@ tail -f -F ~/Library/Logs/Hinterland/tld/Player.log | grep --line-buffered "Fail
 	-e s/FootstepsWolfWalk/🐺/ \
 	-e s/FootstepsWolfRun/🐺/ \
 	-e s/WolfHowl/🙀/ \
+	-e s/WolfWarn/🤬/ \
 	-e s/WolfStalking/🤡/ \
 	-e s/WolfDie/☠️/ \
 	-e s/WolfAttackEnter/😡/ \
