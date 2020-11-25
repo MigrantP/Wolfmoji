@@ -10,7 +10,8 @@ Wolfmoji provides a visual representation of the wildlife sounds by reading the 
 - 🐺 Wolf walking or running
 - 🙀 Wolf howling
 - 🤡 Wolf stalking you
-- 😡 Wolf attacking you
+- 🤬 Wolf growling at you
+- 😡 Wolf has decided to attack you
 - ☠️ Wolf dies
 - 🦌 Deer walking or doing deer stuff
 - 🐇 Rabbit walking
