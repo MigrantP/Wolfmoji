@@ -18,6 +18,7 @@ Wolfmoji provides a visual representation of the wildlife sounds by reading the 
 - 🐻 Bear walking or running or doing bear stuff
 - 🧸 Bear stalking, attacking, chasing, or detecting you
 - 🥶 Bear dies
+- Any sound not yet handled will print its ID out in the stream. Let me know and I can add an emoji for it!
 
 # Usage 
 Clone or download the repository. Run Terminal (Applications/Utilities/Terminal). 
