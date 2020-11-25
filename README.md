@@ -5,6 +5,20 @@ The bug has been happening since the initial Darkwalker update (version 1.86, 29
 
 Wolfmoji provides a visual representation of the wildlife sounds by reading the game's log file and showing emojis for the animals whenever they make a sound.
 
+# Emoji key (WIP)
+
+- 🐺 Wolf walking or running
+- 🙀 Wolf howling
+- 🤡 Wolf stalking you
+- 😡 Wolf attacking you
+- ☠️ Wolf dies
+- 🦌 Deer walking or doing deer stuff
+- 🐇 Rabbit walking
+- 💩 Rabbit dies
+- 🐻 Bear walking or running or doing bear stuff
+- 🧸 Bear stalking, attacking, chasing, or detecting you
+- 🥶 Bear dies
+
 # Usage 
 Clone or download the repository. Run Terminal (Applications/Utilities/Terminal). 
 
