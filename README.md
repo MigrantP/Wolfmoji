@@ -9,13 +9,14 @@ Wolfmoji provides a visual representation of the wildlife sounds by reading the 
 
 # Emoji key (WIP)
 
-- 🐺 Wolf walking or running
+- 🐺 Wolf walking or running or doing wolf stuff
 - 🙀 Wolf howling
 - 🤡 Wolf stalking you
 - 🤬 Wolf growling at you
 - 😡 Wolf has decided to attack you
 - ☠️ Wolf dies
 - 🦌 Deer walking or doing deer stuff
+- 🥩 Deer dies
 - 🐇 Rabbit walking
 - 💩 Rabbit dies
 - 🐻 Bear walking or running or doing bear stuff
