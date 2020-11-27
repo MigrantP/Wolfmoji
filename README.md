@@ -13,12 +13,13 @@ Wolfmoji provides a visual representation of the wildlife sounds by reading the 
 - 🙀 Wolf howling
 - 🤡 Wolf stalking you
 - 🤬 Wolf growling at you
-- 😡 Wolf has decided to attack you
+- 😡 Wolf is attacking you
 - ☠️ Wolf dies
+- 🍽 Wolf is eating a rabbit or a deer
 - 🦌 Deer walking or doing deer stuff
 - 🥩 Deer dies
 - 🐇 Rabbit walking
-- 💩 Rabbit dies
+- 💩 Rabbit is stunned or dies
 - 🐻 Bear walking or running or doing bear stuff
 - 🧸 Bear stalking, attacking, chasing, or detecting you
 - 🥶 Bear dies
