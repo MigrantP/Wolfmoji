@@ -5,6 +5,7 @@ tail -f -F ~/Library/Logs/Hinterland/tld/Player.log | grep --line-buffered "Fail
 	-e s/FootstepsWolfWalk/🐺/ \
 	-e s/FootstepsWolfRun/🐺/ \
 	-e s/WolfScuff/🐺/ \
+	-e s/WolfEat/🍽/ \
 	-e s/WolfHowl/🙀/ \
 	-e s/WolfWarn/🤬/ \
 	-e s/WolfGrowlLoop/🤬/ \
@@ -12,12 +13,16 @@ tail -f -F ~/Library/Logs/Hinterland/tld/Player.log | grep --line-buffered "Fail
 	-e s/WolfDie/☠️/ \
 	-e s/WolfAttackEnter/😡/ \
 	-e s/WolfAttackBreaths/😡/ \
+	-e s/ClothesTearing/😡/ \
 	-e s/DeerHoofScrape/🦌/  \
 	-e s/FootstepsDeerWalk/🦌/ \
 	-e s/FootstepsDeerRun/🦌/ \
 	-e s/DeerDie/🥩/ \
 	-e s/FootstepsRabbitWalk/🐇/ \
 	-e s/RabbitDie/💩/ \
+	-e s/RabbitHold/💩/ \
+	-e s/RabbitKill/💩/ \
+	-e s/RabbitSqueal/🍽/ \
 	-e s/FootstepsBearWalk/🐻/ \
 	-e s/BearIdle/🐻/ \
 	-e s/BearFeeding/🐻/ \
