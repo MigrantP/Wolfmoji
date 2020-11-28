@@ -15,14 +15,16 @@ Wolfmoji provides a visual representation of the wildlife sounds by reading the 
 - 🤬 Wolf growling at you
 - 😡 Wolf is attacking you
 - ☠️ Wolf dies
-- 🍽 Wolf is eating a rabbit or a deer
+- 🍴 Wolf is eating a rabbit or a deer
 - 🦌 Deer walking or doing deer stuff
 - 🥩 Deer dies
 - 🐇 Rabbit walking
 - 💩 Rabbit is stunned or dies
 - 🐻 Bear walking or running or doing bear stuff
 - 🧸 Bear stalking, attacking, chasing, or detecting you
+- 😨 Bear runs away
 - 🥶 Bear dies
+- 🦄 Moose walking or running or doing moose stuff
 - Any sound not yet handled will print its ID out in the stream. Let me know and I can add an emoji for it!
 
 # Usage 
