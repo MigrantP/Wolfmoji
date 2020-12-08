@@ -1,7 +1,7 @@
 # Wolfmoji
-The Long Dark is a great game. But it has a really bad bug on macOS where wildlife sounds do not play at all. You cannot hear wolves howling, bears shuffling around nearby, and other things that make the game a lot harder than it should be.
+The Long Dark is a great game. But it had a really bad bug on macOS where wildlife sounds do not play at all. You could not hear wolves howling, bears shuffling around nearby, and other things that made the game a lot harder than it should have been.
 
-The bug has been happening since the initial Darkwalker update (version 1.86, 29 Oct 2020). Hinterland acknowledged the problem but has not yet fixed it (as of 24 Nov 2020).
+The bug was happening since the initial Darkwalker update (version 1.86, 29 Oct 2020) until version 1.89 (7 Dec 2020). The problem has now been fixed! If the bug ever comes back, or if it's still happening to you, Wolfmoji will still be here.
 
 Wolfmoji provides a visual representation of the wildlife sounds by reading the game's log file and showing emojis for the animals whenever they would make a sound, but don't because of the bug.
 
